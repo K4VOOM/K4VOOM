@@ -35,10 +35,3 @@ I'm 15 years old and I build Telegram bots in Python — from quick MVPs to prod
 📫 Contact: Tg: [@K4VOOM](https://t.me/K4VOOM) · Gmail: andrejseret@gmail.com
 
 ---
-
-<div align="center">
-
-![K4VOOM's GitHub stats](https://github-readme-stats.vercel.app/api?username=K4VOOM&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=K4VOOM&layout=compact&theme=dark)
-
-</div>
